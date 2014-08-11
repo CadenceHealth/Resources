@@ -1,0 +1,50 @@
+Monday - 11/08/14
+
+1. Problem Identification
+Current information of info, guides for healthy eating is poor and inaccurate
+not easily accessible information on new research
+current solutions are either misleading, incomplete or do not yield desired results
+
+1.2 Opportunities
+Potential market (new revenue source)
+(see supporting document)
+International recognition of ORAC rating
+new dimension to current education solutions
+company growth
+attaining company goals more effectively 
+
+1.3 Mandates
+Legal issues around recommending foods
+licensing 
+intellectual property 
+sever management
+content management
+program management
+
+
+2. Success Factors
+Equal workloads
+sustainable solutions
+is the backbone of the application obtainable 
+deliverables completed on time
+compromise between project team and client
+communication between client, target audience, team mates
+learning new skill sets
+javascript + html
+programming to Andriod/IOS platforms
+
+3. Current Situation
+education courses
+articles/guides
+trainers
+web service
+(whatever it is the business does)
+
+5.
+
+Alternative 1 -  Do nothing
+
+Alternative 2 - Clients dream application - Why she cant have the extra features she mentioned
+
+Alternative 3 - our scaled down application
+
