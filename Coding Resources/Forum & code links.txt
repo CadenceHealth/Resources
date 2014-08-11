@@ -1,0 +1,16 @@
+http://www.cio.com/article/2380538/android-smartphone/how-cross-platform-tools-make-it-easier-to-develop-for-both-ios-and-android.html
+
+http://www.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/
+
+http://www.appcelerator.com/
+
+http://www.vizteams.com/blog/android-ios-top-solutions-for-creating-cross-platform-mobile-apps/#.U-iwOfmSw-J
+
+http://stackoverflow.com/questions/3369413/developing-cross-platform-mobile-application
+
+http://stackoverflow.com/questions/3326110/are-there-any-huge-differences-between-objective-c-and-java-or-iphone-and-andro/3365800#3365800
+
+http://radar.oreilly.com/2012/06/c-sharp-cross-platform-mobile-apps.html
+
+http://stackoverflow.com/questions/51988/what-work-has-been-done-on-cross-platform-mobile-development
+
